@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **rohitchavan9910@gmail.com**
 
-- ⚡ Fun Fact **Trying to become "सर्वगुणसंपन्न!"**
+- ⚡ Thought **Trying to become "सर्वगुणसंपन्न!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
