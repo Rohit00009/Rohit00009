@@ -63,10 +63,6 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
----
-
----
-
 ### 📊 GitHub Stats
 
 <table>
@@ -79,4 +75,5 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
     </td>
   </tr>
 </table>
-s
+
+---
