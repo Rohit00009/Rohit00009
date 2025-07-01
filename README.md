@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit Vinod Chavan
 Aspiring Full Stack Developer | Web3 Enthusiast
 --------------------------------------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit00009&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit00009&color=brightgreen)
 
 I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full-stack applications from scratch with industry-grade tools and technologies. I have also completed an advanced job simulation with Walmart Global Tech, where I built custom data structures and designed scalable backends.
 
@@ -56,12 +56,18 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 </p>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=radical&hide_border=false)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=yellow-orange&hide_border=false)
 
 ---
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/Rohit00009"><img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=radical&count_private=true" /></a>
+<a href="https://github.com/Rohit00009">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=default&count_private=true&hide_border=true" />
+</a>
 
-<a href="http://www.github.com/Rohit00009"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=radical&hide_border=false" /></a>
+---
+
