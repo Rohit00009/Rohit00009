@@ -18,15 +18,6 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
-### 🧩 Projects
-
-- 🎮 [Game Show App](https://github.com/Rohit00009) — Angular + DotNet Core + WebAPI + Redux  
-- 📊 [Sorting Algorithm Visualizer](https://github.com/Rohit00009/Sorting-Algorithm-Visualizer) — Interactive algorithm visualizer  
-- 🎨 [COLORO](https://github.com/Rohit00009/COLORO) — CSS Color Picker Tool  
-- 🔐 [Safe Pulse (Women Safety Device)](https://github.com/Rohit00009/Safe-Pulse) — IoT + GPS + GSM + Telegram Bot based SOS system  
-
----
-
 ### 🚀 Technologies I'm Working With
 
 <p align="left">
