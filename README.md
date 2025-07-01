@@ -63,11 +63,19 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/Rohit00009">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=default&count_private=true&hide_border=true" />
-</a>
-
 ---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/Rohit00009">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Rohit00009">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rohit00009">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit00009&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
