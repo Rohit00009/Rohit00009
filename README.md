@@ -65,16 +65,20 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit00009&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit00009&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
