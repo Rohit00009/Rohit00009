@@ -65,6 +65,8 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <table>
@@ -73,12 +75,8 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
       <img src="https://github-readme-stats.vercel.app/api?username=Rohit00009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit00009&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
+s
