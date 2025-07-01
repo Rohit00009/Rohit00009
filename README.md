@@ -56,6 +56,9 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 </p>
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit00009&theme=radical&hide_border=false)
+
+---
 
 ### 📊 GitHub Stats
 
