@@ -44,7 +44,6 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/express-js.png" width="36" height="36" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="36" height="36" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="36" height="36" /></a>
   <a href="https://socket.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="36" height="36" />
