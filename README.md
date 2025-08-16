@@ -31,15 +31,16 @@ Tools & Others
     <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
   </a>
   <a href="https://zod.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36"/>
   </a>
   <a href="https://docs.ethers.org/" target="_blank">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/logo.png" width="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/>
   </a>
 </p>
+
 
 
 ---
