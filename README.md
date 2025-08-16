@@ -27,19 +27,27 @@ Backend Development
 <p> <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/express-js.png" width="36" height="36" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a> </p>
 Tools & Others  
 <p>
+  <!-- JWT -->
   <a href="https://jwt.io/" target="_blank">
     <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
   </a>
+
+  <!-- Zod -->
   <a href="https://zod.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36"/>
   </a>
+
+  <!-- Ethers.js (Ethereum logo as replacement) -->
   <a href="https://docs.ethers.org/" target="_blank">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=029" width="36" height="36"/>
-</a>
+    <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/src/assets/eth-diamond-black.svg" width="36" height="36"/>
+  </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/>
   </a>
 </p>
+
 
 
 
