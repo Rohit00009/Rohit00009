@@ -43,7 +43,9 @@ Backend Development
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="36" height="36" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/WebSocket_logo.svg" width="36" height="36" /></a>
+  <a href="https://socket.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="36" height="36" />
+</a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
 </p>
 
@@ -53,7 +55,9 @@ Backend Development
     <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
   </a>
   <a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36" /></a>
-  <a href="https://docs.ethers.org/" target="_blank"><img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/src/assets/eth-diamond-black.svg" width="36" height="36" /></a>
+ <a href="https://docs.ethers.org/" target="_blank">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" width="36" height="36" />
+</a>
   <a href="https://turbo.build/repo" target="_blank"><img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" width="36" height="36" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
 </p>
