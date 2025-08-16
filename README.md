@@ -24,6 +24,7 @@ Programming Languages
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
 </p>
 
 Frontend Development
@@ -55,9 +56,6 @@ Backend Development
     <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
   </a>
   <a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36" /></a>
- <a href="https://docs.ethers.org/" target="_blank">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" width="36" height="36" />
-</a>
   <a href="https://turbo.build/repo" target="_blank"><img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" width="36" height="36" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
 </p>
