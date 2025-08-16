@@ -50,7 +50,9 @@ Backend Development
 
 ### Tools & Others
 <p>
-  <a href="https://jwt.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/8239144?s=200&v=4" width="36" height="36" /></a>
+    <a href="https://jwt.io/" target="_blank">
+    <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
+  </a>
   <a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36" /></a>
   <a href="https://docs.ethers.org/" target="_blank"><img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/src/assets/eth-diamond-black.svg" width="36" height="36" /></a>
   <a href="https://turbo.build/repo" target="_blank"><img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" width="36" height="36" /></a>
