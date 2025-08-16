@@ -18,24 +18,15 @@ I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full
 
 ---
 
-### 🚀 Technologies I'm Working With
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/express-js.png" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/8239144?s=200&v=4" width="36" height="36" /></a>
-<a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36" /></a>
-<a href="https://ethers.org/" target="_blank"><img src="https://seeklogo.com/images/E/ethers-logo-D5B8625D2F-seeklogo.com.png" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
-</p>
+🚀 Technologies I'm Working With
+Programming Languages
+<p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a> </p>
+Frontend Development
+<p> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a> <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a> </p>
+Backend Development
+<p> <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/express-js.png" width="36" height="36" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a> </p>
+Tools & Others
+<p> <a href="https://jwt.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/8239144?s=200&v=4" width="36" height="36" /></a> <a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36" /></a> <a href="https://ethers.org/" target="_blank"><img src="https://seeklogo.com/images/E/ethers-logo-D5B8625D2F-seeklogo.com.png" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a> </p>
 
 ---
 
