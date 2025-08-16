@@ -25,21 +25,22 @@ Frontend Development
 <p> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a> <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a> </p>
 Backend Development
 <p> <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/express-js.png" width="36" height="36" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a> </p>
-### Tools & Others  
+Tools & Others  
 <p>
   <a href="https://jwt.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" width="36" height="36"/>
+    <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36"/>
   </a>
   <a href="https://zod.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="36" height="36"/>
+    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="36" height="36"/>
   </a>
   <a href="https://docs.ethers.org/" target="_blank">
     <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="36" height="36"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/>
   </a>
 </p>
+
 
 
 ---
