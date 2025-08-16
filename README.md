@@ -43,7 +43,7 @@ Backend Development
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="36" height="36" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="36" height="36" /></a>
-  <a href="https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="36" height="36" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="36" height="36" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://www.svgrepo.com/show/353655/websocket.svg" width="36" height="36" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
 </p>
