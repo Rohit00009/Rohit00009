@@ -6,12 +6,12 @@ Aspiring Full Stack Developer | Web3 Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohit00009&color=brightgreen)
 
-I'm currently a part of Harkirat Singh's Web3 Cohort, learning how to build full-stack applications from scratch with industry-grade tools and technologies. I have also completed an advanced job simulation with Walmart Global Tech, where I built custom data structures and designed scalable backends.
+I am currently diving into Web3 and full-stack development, where I’m learning to build applications from scratch using modern frameworks and industry-grade tools. My focus is on mastering the MERN stack along with technologies like Zustand, JWT, Zod, TypeScript, and blockchain fundamentals. I enjoy creating clean, scalable solutions and exploring how decentralized technologies can shape the future of applications.
 
 * 🌍  I'm based in Pune, Maharashtra, India  
 * ✉️  Reach me at [rohitchavan9910@gmail.com](mailto:rohitchavan9910@gmail.com)  
 * 🔗  [LinkedIn](https://www.linkedin.com/in/rohit-chavan-906556203/) | [GitHub](https://github.com/Rohit00009)  
-* 🚀  Currently part of [Harkirat Singh’s Web3 Cohort](https://www.learnweb3.io/)  
+* 🚀  Currently learning full-stack and Web3 development
 * 🧠  Learning MERN stack, Zustand, JWT, Zod, Web3, TypeScript  
 * 🤝  Open to collaboration on full-stack or blockchain-based projects  
 * ⚡  Fun fact: I love clean UIs, animated loaders, and perfectly aligned divs 😄  
